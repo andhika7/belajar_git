@@ -1,1 +1,2 @@
 Membuat file pertama untuk Github
+Menulis text pada file pertama di Github
